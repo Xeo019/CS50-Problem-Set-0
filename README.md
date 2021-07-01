@@ -46,4 +46,4 @@ E: Normal Mode
 H: Hard Mode
 
 
-~Thanks for playing~
+Thanks for playing!
