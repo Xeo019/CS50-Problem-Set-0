@@ -1,7 +1,7 @@
 # CS50-Problem-Set-0
 Scratch Project for CS50
 
-Note: Though normal mode is fun, Hard Mode is much more interesting, balanced around a key and showcases the scope of the project more adequately.
+Note: Though normal mode is just a short intro, Hard Mode is much more interesting, balanced around a key and showcases the scope of the project more adequately.
 
 
 Controls:
