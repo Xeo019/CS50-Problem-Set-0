@@ -1,0 +1,2 @@
+Mog[[:space:]]V30[[:space:]]Submission.sb3 filter=lfs diff=lfs merge=lfs -text
+*.sb3 filter=lfs diff=lfs merge=lfs -text
